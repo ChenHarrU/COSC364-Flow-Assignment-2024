@@ -1,6 +1,13 @@
 """
-COSC364 flow assignment 
+COSC364 flow assignment - 2024
 Created by Yuxi (Harry) Chen
+
+This script generates an LP (Linear Programming) file for solving the network flow problem. 
+It sets up constraints and variables based on user-defined parameters for source nodes, transit nodes, and destination nodes.
+
+Usage: 
+The script takes command-line arguments for s,t,d like the following.
+cmd: lp_file_gen {insert_source_nodes} {insert_transit_nodes} {insert_destination_nodes}
 01/05/24
 """
 import sys
