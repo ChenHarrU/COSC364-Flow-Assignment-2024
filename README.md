@@ -18,5 +18,5 @@ This repository is aimed at solving a network flow optimization problem from the
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/cosc364-flow-assignment.git
-   cd cosc364-flow-assignment
+   git clone https://github.com/yourusername/cosc364-flow-assignment-2024.git
+   cd cosc364-flow-assignment-2024
