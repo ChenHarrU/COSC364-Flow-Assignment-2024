@@ -2,6 +2,9 @@
 COSC364 flow assignment 
 Created by Yuxi (Harry) Chen
 01/05/24
+
+This script interacts with IBM CPLEX solver to solve an LP (Linear Programming) file defined by the input file '{s}{t}{d}.lp' e.g. '737.lp'. 
+It executes the optimization process and outputs relevant statistics.
 """
 import subprocess
 import time
