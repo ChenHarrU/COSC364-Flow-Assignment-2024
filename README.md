@@ -4,8 +4,8 @@
 This repository is aimed at solving a network flow optimization problem from the COSC364 course. The scripts automate the generation of LP (Linear Programming) files and utilize IBM CPLEX for optimization of network configurations.
 
 ## Prerequisites
-- **IBM CPLEX installed and configured.
-- **Python 3.x
+- IBM CPLEX installed and configured.
+- Python 3.x
 
 ## Key Features
 - **LP File Generation**: Automatically generates LP files based on user-defined parameters for source nodes, transit nodes, and destination nodes.
